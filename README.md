@@ -14,7 +14,7 @@ Getting started with the Recipe App is straightforward. Follow these steps to se
 
 1. **Clone the Repository:** Start by cloning the Recipe App repository to your local computer using Git.
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/ST10377479/ST10377479_PROG6221_POE.git>
 2. **Navigate to the Project Directory:** Once cloned, navigate into the project directory using your command-line interface.
    ```bash
    cd RecipeApp
